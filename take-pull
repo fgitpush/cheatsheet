@@ -1,0 +1,12 @@
+Connect with Putty and then:
+
+cd /opt/cw
+sudo ./devs_git newconsole_cng pull
+sudo ./devs_grunt newconsole_cng grunt excludeVendor
+
+
+Repos:
+newconsole_cng     	(staging1)
+newconsole2		(staging2)
+newconsole3		(staging3)
+

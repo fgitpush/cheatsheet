@@ -1,0 +1,107 @@
+https://stackoverflow.com/questions/11990708/error-cant-connect-to-local-mysql-server-through-socket-var-run-mysqld-mysq
+
+sudo service mysql start
+
+
+go into mysql from terminal:
+mysql -u root -p
+
+
+
+
+Check issues:
+ps -A|grep mysql
+
+
+kill mysql:
+sudo pkill mysql
+
+
+
+
+Start again:
+service mysql restart
+mysql -u root -p
+
+
+
+see all database in mysql:
+SHOW DATABASES;
+
+Create db:
+CREATE DATABASE cnc;
+
+Select database:
+USE dbname;
+
+
+Create table:
+CREATE TABLE example ( id smallint unsigned not null auto_increment, name varchar(20) not null, constraint pk_example primary key (id) );
+INSERT INTO example ( id, name ) VALUES ( null, 'Sample data' );
+
+
+select:
+SELECT user FROM mysql.user GROUP BY user;
+
+delete:
+DELETE FROM mysql.user WHERE user = 'username';
+
+Grant previledge:
+GRANT ALL PRIVILEGES ON *.* TO 'username'@'localhost' IDENTIFIED BY 'password';
+
+Import a file: (outside mysql)
+mysql -u root -p cnc < /opt/lampp/htdocs/cg-cron-manager/docker/mysql/cg_cnc.sql
+
+Import a file inside mysql: doesnt work
+mysqldump cnc < /opt/lampp/htdocs/cg-cron-manager/docker/mysql/cg_cnc.sql
+
+
+Import a file inside mysql: doesnt work
+mysql> use cnc;
+
+mysql> SET autocommit=0 ; source /opt/lampp/htdocs/cg-cron-manager/docker/mysql/cg_cnc.sql ; COMMIT ;
+
+
+CREATE TABLE `site_errors`  (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `app_name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `error_type` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `error_message` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `time_ocurred` datetime NOT NULL,
+  PRIMARY KEY (`id`));
+
+
+
+CREATE TABLE `migrations` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `migration` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `batch` int(11) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+
+
+Get MySQL port:
+
+SHOW GLOBAL VARIABLES LIKE 'PORT';
+
+
+
+
+ALTER TABLE site_errors MODIFY COLUMN time_ocurred INT(11);
+
+
+Alter a table:
+ALTER TABLE emp MODIFY COLUMN name VARCHAR(100);
+
+
+
+
+
+
+
+
+
+
+
+

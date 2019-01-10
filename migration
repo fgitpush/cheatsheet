@@ -1,0 +1,9 @@
+Make a migration:
+php artisan make:migration migration name
+
+Perform a migration:
+php artisan migrate
+
+Roll back:
+php artisan migrate:rollback
+
