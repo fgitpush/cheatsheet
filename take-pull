@@ -10,3 +10,9 @@ newconsole_cng     	(staging1)
 newconsole2		(staging2)
 newconsole3		(staging3)
 
+
+comm_service:
+sudo ./devs_git  cg_comms_service pull
+
+Get list of repos:
+./devs_git
