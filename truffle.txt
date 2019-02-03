@@ -1,0 +1,5 @@
+Do the following things to install Truffle and run it:
+downlaod truffle
+download ganache
+download project
+run truffle compile
