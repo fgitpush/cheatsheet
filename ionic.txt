@@ -1,0 +1,2 @@
+ionic start news2 blank
+ionic g page home
