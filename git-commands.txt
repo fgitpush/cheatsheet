@@ -1,0 +1,38 @@
+Git Items to learn:
+
+git init
+initializes git in the working directory. Markes it as master branch.
+
+git status
+shows the status of files which are tracked and not tracked.
+
+git add .
+add all files to be comitted
+
+git add file-name
+adds the file to be comitted
+
+git commit -m "Custom Message"
+commits the files.
+
+git log --oneline
+shows brief log all commits
+
+git log
+Detailed information of all commits
+
+git reset HEAD file-name
+file is unstaged. where it was before commit
+
+git checkout -- file-name
+discard changes you have done to a file
+
+git reset 
+move all the files back to where they were at the last commit
+
+git remote add origin https://ifahaduddin@bitbucket.org/ifahaduddin/git-test.git
+
+git push -u origin master
+
+For files to be ingored, create .gitignore file.
+

@@ -1,0 +1,24 @@
+Go to nodejs.org
+Download lts version
+Run it, install it
+To check if its installed, the two commands below,
+a.) node -v
+b.) npm -v
+Open cmd, go to the folder you want to install node in
+run npm init
+Fill the questions asked
+
+Follow up by installing npm
+npm install lite-server --save-dev
+The above command will create a node-modules folder in your project folder
+go to root/package.json
+scripts should look like this,
+  "scripts": {
+	"start": "npm run lite",
+    "test": "eslint *.js lib/*.js && istanbul cover _mocha -- -R spec",
+	"lite": "lite-server"
+  },
+  
+Go to cmd and write npm run lite
+It will run the index.html file which will be updated (dynamically) as you save new changes.
+

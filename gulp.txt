@@ -1,0 +1,3 @@
+Install node.
+then,
+npm install gulp
