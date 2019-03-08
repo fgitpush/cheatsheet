@@ -1,0 +1,13 @@
+jQuery('#submitlesson').submit(ajaxSubmit);
+function ajaxSubmit () {
+    var submitlesson = jQuery(this).serialize();
+    jQuery.ajax({
+               type: 'POST',
+               url: MyAjax.ajaxurl,
+               data: ({action  : 'postlesson'}),
+               success: function(data){
+                   jQuery("#feedback").html('data');
+               }
+    });
+    return false;
+}
