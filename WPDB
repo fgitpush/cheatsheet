@@ -1,0 +1,16 @@
+Execute any query:
+   $rows = $wpdb->get_results($query);
+Delete:
+    $wpdb->delete( "table", array( 'id' => $id ) );
+
+SELECT:
+	global $wpdb;
+        $rows = $wpdb->get_results( "SELECT * FROM table");
+
+Notes:
+File to be included:
+    require( dirname(__FILE__) . '/../../../wp-load.php' );	
+    global $wpdb;
+
+
+
