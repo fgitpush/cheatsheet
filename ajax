@@ -1,13 +1,17 @@
-jQuery('#submitlesson').submit(ajaxSubmit);
-function ajaxSubmit () {
-    var submitlesson = jQuery(this).serialize();
-    jQuery.ajax({
-               type: 'POST',
-               url: MyAjax.ajaxurl,
-               data: ({action  : 'postlesson'}),
-               success: function(data){
-                   jQuery("#feedback").html('data');
-               }
-    });
-    return false;
-}
+        //filter images
+        jQuery("#formSubmit").click(function() {
+            var formURL = "<?php echo plugin_dir_url( __FILE__ );  ?>";
+            var category = jQuery('#filter_category').val();
+            var sub_category = jQuery('#filter_sub_category').val();
+            var count = jQuery('#filter_count').val(); 
+            jQuery.ajax({
+                type: "POST",
+                url: formURL+"/ajax.php",
+                data: {'category': category, 'sub_category':sub_category, 'count': count},
+                cache: false,
+                success: function(msg, status){
+                    jQuery( "#filter_data" ).empty();
+                    jQuery( "#filter_data" ).append(msg);
+                }
+            });
+        });
