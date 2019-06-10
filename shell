@@ -1,0 +1,13 @@
+Read a file line by line in shell
+#!/usr/bin/bash
+filename="$1"
+while read -r line; do
+    name="$line"
+    echo "Name read from file - $name"
+done < "$filename"
+
+
+------------------------------------------------
+Print a specific line in shell from a file
+#print 10th line
+awk NR==10 file_name
