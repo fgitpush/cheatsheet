@@ -11,3 +11,9 @@ done < "$filename"
 Print a specific line in shell from a file
 #print 10th line
 awk NR==10 file_name
+
+-------------------------------------------------
+Pattern matching
+if [[ $var1 == *,123[0-9][0-9][0-9],* ]] ; then echo "Pattern matched"; fi
+----------------------------------------------------
+
