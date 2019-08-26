@@ -1,0 +1,10 @@
+By far, my favorite shortcuts are:
+
+Ctrl+ E - toggle between recently used files
+Ctrl + / - comment/uncomment a block of code
+Ctrl + B - go to the class declaration
+Ctrl + N - navigate to class
+Ctrl + R - search and replace
+Ctrl +Alt + L - reformat code
+Alt + Enter - show intention actions and quick-fixes
+Ctrl + Shift + Enter - complete statement
