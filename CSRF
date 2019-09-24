@@ -1,1 +1,0 @@
-Add  {{ csrf_field() }} in the html form.

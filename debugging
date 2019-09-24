@@ -1,3 +1,5 @@
-Turn error reporting on
+Turn error reporting on (local/dev)
+echo(), print_r() vardump() die() dd()
+For front end, keep console on when visiting page and learn to debug using Chrome
 Check the logs
-Google and do it yourself before asking.
+Google and do it yourself before asking
