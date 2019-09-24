@@ -1,0 +1,1 @@
+PHP, MYSQL, Laravel, WordPress, AWS, Vue.js, Magento, Prestashop
