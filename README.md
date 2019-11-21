@@ -144,4 +144,27 @@ Laravel has following concepts,<br>
 135. What is Lazy vs Eager Loading in Laravel?<br>
 136. How to get current environment in Laravel?<br>
 137. How to use custom table in Laravel Model ?<br>
-138. How to use custom table in Laravel Model ?<br>
+138. What is Binding??<br>
+139. Explain Binding A Singleton?<br>
+140. Explain Binding Instances?<br>
+141. Explain Binding Primitives?<br>
+142. Explain Contextual Binding and how does it work?<br>
+143. What is Tagging?<br>
+144. Explain Extending Bindings?<br>
+145. What is the make Method?<br>
+146. How to clear cache in Laravel?<br>
+147. What is CSRF token?<br>
+148. How will you explain homestead in Laravel?<br>
+149. How can we get the user's IP address in Laravel?<br>
+150. How will you create a helper file in Laravel?<br>
+151. How can we create a record in Laravel using eloquent?<br>
+152. How can we get the user's IP address in Laravel?<br>
+153. How can we get the user's IP address in Laravel?<br>
+154. What is faker in Laravel?<br>
+What are active records?
+What are the difference between insert() and insertGetId() in laravel?
+
+https://www.bestinterviewquestion.com/laravel-interview-questions#what-are-the-difference-insert-and-insertgetid-in-laravel-qxqbo3917py
+
+
+
