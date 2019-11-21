@@ -64,16 +64,62 @@ Laravel has following concepts,<br>
 55. Singelton design pattern<br>
 56. Reverse routing<br>
 57. Popular composer packages<br>
-58.How to get the data from more than 3 table without use join ? Subquery, union.<br>
-59. Popular composer packages<br>
-60. Popular composer packages<br>
-61. Popular composer packages<br>
-62. Popular composer packages<br>
-63. Popular composer packages<br>
-64. Popular composer packages<br>
-65. Popular composer packages<br>
-66. Popular composer packages<br>
-67. Popular composer packages<br>
-68. Popular composer packages<br>
-69. Popular composer packages<br>
-70. Popular composer packages<br>
+58. How to get the data from more than 3 table without use join ?Answer: Subquery, union.<br>
+59. List artisan commands<br>
+60. Session<br>
+61. Cookies<br>
+62. Current version of PHP,MySQL, Laravel, MongoDB etc<br>
+63. Design architecture of an app<br>
+64. SQL Injections<br>
+65. How to call static methods?<br>
+66. How to achieve multiple DB hosts?<br>
+67. Abstract class<br>
+68. Default ports for MySQL, Email, etc<br>
+69. Explain Joins<br>
+70. Explain Unions<br>
+70. how mongodb is better than relational databases?<br>
+70. are you aware about mongodb?<br>
+70. what is default session time<br>
+70. How to create hooks in Laravel?<br>
+70. What is csrf token and xss attack<br>
+70. Select highest/nth highest salary<br>
+70. Write joins<br>
+70. Write union<br>
+70. Write a complex query<br>
+70. Difference between PHP 5 and 4.<br>
+70. What Debugging techniques you use?<br>
+70. Difference among various php versions<br>
+70. Difference among various mysql versions<br>
+70. Difference among various Laravel versions<br>
+70. How to add aws plugin in PHP?<br>
+70. desiging patterns<br>
+70. Diff between GET and POST<br>
+70. Which is fast between get and post?<br>
+70. Simple OOP questions<br>
+70. deference between abstract class and interface<br>
+70. What is MVC Framework<br>
+70. create a project with CRUD, one algorithm logic and insert data in db for testing.<br>
+70.  cURL , SOAP <br>
+70. in MySql , we use many types of engines which one is faster and why<br>
+70. trigger<br>
+70. procedure<br>
+70. new feaatures of Laravel X<br>
+70. new features of PHP X<br>
+70. Difference between session and cookies<br>
+70. what is curl<br>
+70. OOP concepts<br>
+70. merge 2 arrays with duplicate<br>
+70. find the count of vowel and consonants<br>
+70. AWS Services<br>
+70. Web scraping<br>
+70. require and require once difference<br>
+70. include and require diffrence<br>
+70. performance optimization<br>
+70. performance optimization<br>
+70. performance optimization<br>
+70. performance optimization<br>
+70. performance optimization<br>
+70. performance optimization<br>
+
+
+
