@@ -64,3 +64,16 @@ Laravel has following concepts,<br>
 55. Singelton design pattern<br>
 56. Reverse routing<br>
 57. Popular composer packages<br>
+58.How to get the data from more than 3 table without use join ? Subquery, union.<br>
+59. Popular composer packages<br>
+60. Popular composer packages<br>
+61. Popular composer packages<br>
+62. Popular composer packages<br>
+63. Popular composer packages<br>
+64. Popular composer packages<br>
+65. Popular composer packages<br>
+66. Popular composer packages<br>
+67. Popular composer packages<br>
+68. Popular composer packages<br>
+69. Popular composer packages<br>
+70. Popular composer packages<br>
