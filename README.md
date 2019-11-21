@@ -77,49 +77,71 @@ Laravel has following concepts,<br>
 68. Default ports for MySQL, Email, etc<br>
 69. Explain Joins<br>
 70. Explain Unions<br>
-70. how mongodb is better than relational databases?<br>
-70. are you aware about mongodb?<br>
-70. what is default session time<br>
-70. How to create hooks in Laravel?<br>
-70. What is csrf token and xss attack<br>
-70. Select highest/nth highest salary<br>
-70. Write joins<br>
-70. Write union<br>
-70. Write a complex query<br>
-70. Difference between PHP 5 and 4.<br>
-70. What Debugging techniques you use?<br>
-70. Difference among various php versions<br>
-70. Difference among various mysql versions<br>
-70. Difference among various Laravel versions<br>
-70. How to add aws plugin in PHP?<br>
-70. desiging patterns<br>
-70. Diff between GET and POST<br>
-70. Which is fast between get and post?<br>
-70. Simple OOP questions<br>
-70. deference between abstract class and interface<br>
-70. What is MVC Framework<br>
-70. create a project with CRUD, one algorithm logic and insert data in db for testing.<br>
-70.  cURL , SOAP <br>
-70. in MySql , we use many types of engines which one is faster and why<br>
-70. trigger<br>
-70. procedure<br>
-70. new feaatures of Laravel X<br>
-70. new features of PHP X<br>
-70. Difference between session and cookies<br>
-70. what is curl<br>
-70. OOP concepts<br>
-70. merge 2 arrays with duplicate<br>
-70. find the count of vowel and consonants<br>
-70. AWS Services<br>
-70. Web scraping<br>
-70. require and require once difference<br>
-70. include and require diffrence<br>
-70. performance optimization<br>
-70. performance optimization<br>
-70. performance optimization<br>
-70. performance optimization<br>
-70. performance optimization<br>
-70. performance optimization<br>
-
-
-
+71. how mongodb is better than relational databases?<br>
+72. are you aware about mongodb?<br>
+73. what is default session time<br>
+74. How to create hooks in Laravel?<br>
+75. What is csrf token and xss attack<br>
+76. Select highest/nth highest salary<br>
+77. Write joins<br>
+78. Write union<br>
+79. Write a complex query<br>
+80. fference between PHP 5 and 4.<br>
+81. What Debugging techniques you use?<br>
+82. Difference among various php versions<br>
+83. Difference among various mysql versions<br>
+84. Difference among various Laravel versions<br>
+85. How to add aws plugin in PHP?<br>
+86. desiging patterns<br>
+87. Diff between GET and POST<br>
+88. Which is fast between get and post?<br>
+89. Simple OOP questions<br>
+90. deference between abstract class and interface<br>
+91. What is MVC Framework<br>
+92. create a project with CRUD, one algorithm logic and insert data in db for testing.<br>
+93.  cURL , SOAP <br>
+94. in MySql , we use many types of engines which one is faster and why<br>
+95. trigger<br>
+96. procedure<br>
+97. new feaatures of Laravel X<br>
+98. new features of PHP X<br>
+99. Difference between session and cookies<br>
+100. what is curl<br>
+101. OOP concepts<br>
+102. merge 2 arrays with duplicate<br>
+103. find the count of vowel and consonants<br>
+104. AWS Services<br>
+105. Web scraping<br>
+106. require and require once difference<br>
+107. include and require diffrence<br>
+108. Have you worked on Laravel X version?<br>
+109. Directory structure of Laravel<br>
+110. How to install Laravel via composer?<br>
+111. Which ORM are being used by laravel?<br>
+112. List types of relationships available in Laravel Eloquent?<br>
+113. How to enable maintenance mode in Laravel?<br>
+114. What is the purpose of using dd() function in laravel?<br>
+115. How do you register a Service Provider?<br>
+116. Helper Functions<br>
+117. What is Fillable Attribute in a Laravel Model?<br>
+118. What is Guarded Attribute in a Laravel Model?<br>
+119. What are Closures in Laravel?<br>
+120. How to get Logged in user info in Laravel?<br>
+121. What is Laravel Elixir?<br>
+122. What is Laravel Mix?<br>
+123. How can you display HTML with Blade in Laravel?<br>
+124. List out databases that laravel supports?<br>
+125. How to use custom table in Laravel Model ?<br>
+126. How To Use Select Query In Laravel? Eloquent and QB?<br>
+127. What are Accessors and Mutators in Eloquent and why should you use them?<br>
+128. How do I log an error?<br>
+129. What is Monolog library in Laravel?<br>
+130. Exceptions are handled by which class in Laravel?<br>
+131. What is Serialization in Laravel?<br>
+132. What is Response in Laravel?<br>
+133. What is Response Macros in Laravel?<br>
+134. What is Rate Limiting OR Throttle in Laravel?<br>
+135. What is Lazy vs Eager Loading in Laravel?<br>
+136. How to get current environment in Laravel?<br>
+137. How to use custom table in Laravel Model ?<br>
+138. How to use custom table in Laravel Model ?<br>
