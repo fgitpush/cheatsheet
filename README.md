@@ -161,56 +161,58 @@ Laravel has following concepts,<br>
 152. How can we get the user's IP address in Laravel?<br>
 153. How can we get the user's IP address in Laravel?<br>
 154. What is faker in Laravel?<br>
-What are active records?<br>
-What are the difference between insert() and insertGetId() in laravel?<br>
-Laravel Vapor Compatibility<br>
-Semantic Versioning<br>
-Job Middleware<br>
-Laravel User Interface (UI)<br>
-Eloquent Subquery Enhancements<br>
-Improved Authorization Responses<br>
-Lazy Collections<br>
-How to make a constant and use globally?<br>
-How to remove /public from URL in laravel?<br>
-What are the difference between soft delete & delete in Laravel?<br>
-How we can upload files in laravel?<br>
-How to create real time sitemap.xml file in Laravel?<br>
-How to use skip() and take() in Laravel Query?<br>
-What is tinker in laravel?<br>
-What is a REPL?<br>
-How to use multiple OR condition in Laravel Query?<br>
-Please write some additional where Clauses in Laravel?<br>
-How to check column is exists or not in a table using Laravel?<br>
-What is eager loading in Laravel?<br>
-How to generate application key in laravel?<br>
-What is LTS version of Laravel?<br>
-How to use GROUP_CONCAT() with JOIN in Laravel?<br>
-How to extend login expire time in Auth?<br>
-How to extend a layout file in laravel view?<br>
-How do you use yield()?<br>
-How to redirect form controller to view file in laravel?<br>
-How to get current route name?<br>
-What is ACL in laravel?<br>
-How to check Ajax request in Laravel?<br>
-How to check if value is sent in request?<br>
-Laravel String Helper functions?<br>
-Laravel Array Helper functions?<br>
-How to exclude a route with parameters from CSRF verification?<br>
-What are policies classes?<br>
-How to rollback last migration?<br>
-What do you mean by Laravel Dusk?<br>
-Explain Laravel echo<br>
-What is query scope?<br>
-What is namespace in Laravel?<br>
-What is Laravel Forge?<br>
-State the difference between CodeIgniter and Laravel.<br>
-What is an Observer?<br>
-What is the use of the bootstrap directory?<br>
-What is the default session timeout duration?<br>
-Explain API.PHP route.<br>
-Define hashing in Laravel.<br>
-What is Localization?<br>
-Explain the concept of encryption and decryption in Laravel.<br>
-How to share data with views?<br>
-How to generate a request in Laravel?<br>
-https://www.bestinterviewquestion.com/laravel-interview-questions#what-are-the-difference-insert-and-insertgetid-in-laravel-qxqbo3917py
+155. What are active records?<br>
+156. What are the difference between insert() and insertGetId() in laravel?<br>
+157. Laravel Vapor Compatibility<br>
+158. Semantic Versioning<br>
+159. Job Middleware<br>
+160. Laravel User Interface (UI)<br>
+161. Eloquent Subquery Enhancements<br>
+162. Improved Authorization Responses<br>
+163. Lazy Collections<br>
+164. How to make a constant and use globally?<br>
+165. How to remove /public from URL in laravel?<br>
+166. What are the difference between soft delete & delete in Laravel?<br>
+167. How we can upload files in laravel?<br>
+168. How to create real time sitemap.xml file in Laravel?<br>
+169. How to use skip() and take() in Laravel Query?<br>
+170. What is tinker in laravel?<br>
+171. What is a REPL?<br>
+172. How to use multiple OR condition in Laravel Query?<br>
+173. Please write some additional where Clauses in Laravel?<br>
+174. How to check column is exists or not in a table using Laravel?<br>
+175. What is eager loading in Laravel?<br>
+176. How to generate application key in laravel?<br>
+177. What is LTS version of Laravel?<br>
+178. How to use GROUP_CONCAT() with JOIN in Laravel?<br>
+179. How to extend login expire time in Auth?<br>
+180. How to extend a layout file in laravel view?<br>
+181. How do you use yield()?<br>
+182. How to redirect form controller to view file in laravel?<br>
+183. How to get current route name?<br>
+184. What is ACL in laravel?<br>
+185. How to check Ajax request in Laravel?<br>
+186. How to check if value is sent in request?<br>
+187. Laravel String Helper functions?<br>
+188. Laravel Array Helper functions?<br>
+189. How to exclude a route with parameters from CSRF verification?<br>
+190. What are policies classes?<br>
+191. How to rollback last migration?<br>
+192. What do you mean by Laravel Dusk?<br>
+193. Explain Laravel echo<br>
+194. What is query scope?<br>
+195. What is namespace in Laravel?<br>
+196. What is Laravel Forge?<br>
+197. State the difference between CodeIgniter and Laravel.<br>
+198. What is an Observer?<br>
+199. What is the use of the bootstrap directory?<br>
+200. What is the default session timeout duration?<br>
+201. Explain API.PHP route.<br>
+202. Define hashing in Laravel.<br>
+203. What is Localization?<br>
+204. Explain the concept of encryption and decryption in Laravel.<br>
+205. How to share data with views?<br>
+206. How to generate a request in Laravel?<br>
+207. I just have installed a fresh version of Laravel 5, and I have the white screen of death. What’s wrong?<br>
+208. How to assign a variable value for all view file?<br>
+209. How to make a constant and use globally?<br>
