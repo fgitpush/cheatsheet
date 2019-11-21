@@ -218,4 +218,4 @@ Laravel has following concepts,<br>
 209. How to make a constant and use globally?<br>
 210. How to check current installed version of Laravel?<br>
 211. What are Implicit Controllers?<br>
-
+212. What does "composer dump-autoload" do?<br>
