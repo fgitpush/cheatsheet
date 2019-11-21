@@ -161,10 +161,56 @@ Laravel has following concepts,<br>
 152. How can we get the user's IP address in Laravel?<br>
 153. How can we get the user's IP address in Laravel?<br>
 154. What is faker in Laravel?<br>
-What are active records?
-What are the difference between insert() and insertGetId() in laravel?
-
+What are active records?<br>
+What are the difference between insert() and insertGetId() in laravel?<br>
+Laravel Vapor Compatibility<br>
+Semantic Versioning<br>
+Job Middleware<br>
+Laravel User Interface (UI)<br>
+Eloquent Subquery Enhancements<br>
+Improved Authorization Responses<br>
+Lazy Collections<br>
+How to make a constant and use globally?<br>
+How to remove /public from URL in laravel?<br>
+What are the difference between soft delete & delete in Laravel?<br>
+How we can upload files in laravel?<br>
+How to create real time sitemap.xml file in Laravel?<br>
+How to use skip() and take() in Laravel Query?<br>
+What is tinker in laravel?<br>
+What is a REPL?<br>
+How to use multiple OR condition in Laravel Query?<br>
+Please write some additional where Clauses in Laravel?<br>
+How to check column is exists or not in a table using Laravel?<br>
+What is eager loading in Laravel?<br>
+How to generate application key in laravel?<br>
+What is LTS version of Laravel?<br>
+How to use GROUP_CONCAT() with JOIN in Laravel?<br>
+How to extend login expire time in Auth?<br>
+How to extend a layout file in laravel view?<br>
+How do you use yield()?<br>
+How to redirect form controller to view file in laravel?<br>
+How to get current route name?<br>
+What is ACL in laravel?<br>
+How to check Ajax request in Laravel?<br>
+How to check if value is sent in request?<br>
+Laravel String Helper functions?<br>
+Laravel Array Helper functions?<br>
+How to exclude a route with parameters from CSRF verification?<br>
+What are policies classes?<br>
+How to rollback last migration?<br>
+What do you mean by Laravel Dusk?<br>
+Explain Laravel echo<br>
+What is query scope?<br>
+What is namespace in Laravel?<br>
+What is Laravel Forge?<br>
+State the difference between CodeIgniter and Laravel.<br>
+What is an Observer?<br>
+What is the use of the bootstrap directory?<br>
+What is the default session timeout duration?<br>
+Explain API.PHP route.<br>
+Define hashing in Laravel.<br>
+What is Localization?<br>
+Explain the concept of encryption and decryption in Laravel.<br>
+How to share data with views?<br>
+How to generate a request in Laravel?<br>
 https://www.bestinterviewquestion.com/laravel-interview-questions#what-are-the-difference-insert-and-insertgetid-in-laravel-qxqbo3917py
-
-
-
