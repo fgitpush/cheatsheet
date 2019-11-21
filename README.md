@@ -216,3 +216,4 @@ Laravel has following concepts,<br>
 207. I just have installed a fresh version of Laravel 5, and I have the white screen of death. What’s wrong?<br>
 208. How to assign a variable value for all view file?<br>
 209. How to make a constant and use globally?<br>
+210. How to check current installed version of Laravel?<br>
