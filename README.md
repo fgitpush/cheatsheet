@@ -217,3 +217,5 @@ Laravel has following concepts,<br>
 208. How to assign a variable value for all view file?<br>
 209. How to make a constant and use globally?<br>
 210. How to check current installed version of Laravel?<br>
+211. What are Implicit Controllers?<br>
+
