@@ -219,3 +219,6 @@ Laravel has following concepts,<br>
 210. How to check current installed version of Laravel?<br>
 211. What are Implicit Controllers?<br>
 212. What does "composer dump-autoload" do?<br>
+213. What is Kept in vendor directory of Laravel?<br>
+214. Whvat does PHP compact function do?<br>
+215. How to assign multiple middleware to Laravel route?<br>
