@@ -222,3 +222,4 @@ Laravel has following concepts,<br>
 213. What is Kept in vendor directory of Laravel?<br>
 214. Whvat does PHP compact function do?<br>
 215. How to assign multiple middleware to Laravel route?<br>
+216. Whats CSRF and JWT token?<br>
