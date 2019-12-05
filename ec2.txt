@@ -1,0 +1,8 @@
+1. Login
+2. Go to EC2
+3. Go to launch instance
+4. Select the respository which includes Docker, PHP, MySQL, PostgreSQL, and other packages.
+5. Click next and create.
+6. Save the .pem file in your computer.
+7. Click on the notes in the creation to see how to ssh into it
+8. Install apache and required software
