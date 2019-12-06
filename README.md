@@ -6,7 +6,7 @@ Laravel:
 
 
 Laravel has following concepts,<br>
-1. Routing<br>
+1. Routing: Routing in Laravel allows you to route all your application requests to its appropriate controller or view.<br>
 2. Controller<br>
 3. Views<br>
 4. Model<br>
