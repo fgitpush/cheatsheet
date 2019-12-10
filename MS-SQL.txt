@@ -1,0 +1,5 @@
+1. Download MS SQL setup
+2. Create DB
+3. Give Previldeges
+4. Make port empty
+5. Download MS-SQL Drivers specific to PHP language
