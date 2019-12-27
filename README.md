@@ -223,3 +223,9 @@ Laravel has following concepts,<br>
 214. Whvat does PHP compact function do?<br>
 215. How to assign multiple middleware to Laravel route?<br>
 216. Whats CSRF and JWT token?<br>
+
+
+JavaScript:
+1. What are different datatypes in JavaScript?
+2. What is NAN?
+3 
