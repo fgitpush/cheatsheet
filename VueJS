@@ -11,18 +11,20 @@ How to setup?
 /resources/js/src
 
 FOLDER Structure:
-/components: Holds independent components
-/filters: Holds used filters
-/layouts: Contains partials
+/components: Holds independent components. We don't use it in our project
+/filters: Holds used filters. Things that can modify data like making it uppercase
+/layouts: Contains partial components like search etc
 /middleware: Contains auth token setting
-/services: Contains API calls
+/services: Contains API calls to get,post etc and do mutation
 /Store: Contains vue state data i.e vuex
 /Store/actions.js:
 /Store/getters.js:
 /Store/mutations.js:
 /Store/state.js:
 /Store/store.js:
-/Views: Contains templates
+/Store/auth:
+/Views: Contains front end side of the pages. 
+It is further divided into folders and view templates (combination of Vue, script and CSS)
 
 CONCEPTS:
 1. Virtual DOM: Changes are made to a virtual DOM. Then that virtual DOM updates the real DOM. React and Ember also do so.
