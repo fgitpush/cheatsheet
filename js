@@ -116,3 +116,4 @@ function (a=1, b=1) {
 33. BOM Manipulation
 34. JS Ajax
 35. JS JSON
+Source: https://www.w3schools.com/js/js_window.asp
