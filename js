@@ -58,4 +58,61 @@ null == undefined          // true
 18. Data structures: 
 A. Function
 B. Object
-19. 
+19. Variable function:
+You can have a function give value to a variable.
+var x = myFunction(4, 3);   // Function is called, return value will end up in x
+
+function myFunction(a, b) {
+  return a * b;             // Function returns the product of a and b
+}
+The value of x will be 12.
+20. Five datatypes:
+string
+number
+boolean
+null
+undefined
+21. Object key-value pairs:
+var person = {firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};
+
+firstName	John
+lastName	Doe
+age	50
+eyeColor	blue
+
+22. Different ways to create object:
+1. using new
+var person = new Object();
+person.firstName = "John";
+person.lastName = "Doe";
+person.age = 50;
+person.eyeColor = "blue";
+2. Create a json object
+var person = {firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};
+
+23. var x = person;  // This will not create a copy of person.
+24. For loop:
+var person = {fname:"John", lname:"Doe", age:25};
+
+for (x in person) {
+  txt += person[x];
+}
+25. Add something to object by '.'
+person.nationality = "English";
+26. Delete from object:
+delete person.age;   // or delete person["age"];
+27. Getters and setters
+28. There are prototype classes already builtin which you can use
+Date objects inherit from Date.prototype
+Array objects inherit from Array.prototype
+Person objects inherit from Person.prototype
+29. Setting default values of functions
+function (a=1, b=1) {
+  // function code
+}
+30. Apply: https://www.w3schools.com/js/js_function_apply.asp
+31. Closures: Localize global variables with https://www.w3schools.com/js/js_function_closures.asp
+32. DOM Manipulation
+33. BOM Manipulation
+34. JS Ajax
+35. JS JSON
