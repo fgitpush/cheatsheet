@@ -1,0 +1,17 @@
+1. Virtual DOM: Changes are made to a virtual DOM. Then that virtual DOM updates the real DOM. React and Ember also do so.
+2. Assign values to attributes: Use v-bind to assign values
+3. Assign values on Event: v-on
+4. Components: Self containing parts. Have vue code, script and CSS
+5. Animation features
+6. Computed properties: ????????????????
+7. Template: A standalone page in a broader concept.
+8. Directives:
+  v-if
+  v-else
+  v-show
+  v-on
+  v-bind
+  v-model
+9. Watchers: Applied to data that changes in runtime.To make changes in runtime.
+10. Routing: Defining routes.
+11. VUE CLI: Control using CLI
