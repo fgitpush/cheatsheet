@@ -1,0 +1,4 @@
+npm install eslint --save-dev
+npm i babel-eslint --save-dev
+eslint --init
+eslint "C:\laragon\www\customer-service\resources\js\src" --ignore-pattern /node_modules
