@@ -13,7 +13,7 @@ composer update
 composer dumpautoload
 
 Make writeable:
-chmod 777 boostrap
+chmod 777 bootstrap
 chmod 777 vendor
 chmod 777 storage
 
