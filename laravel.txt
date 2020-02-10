@@ -25,3 +25,8 @@ cache
 
 How to run a specific seeder:
 php artisan db:seed --class=UsersTableSeeder
+
+
+How to run a seeder:
+composer dump-autoload
+php artisan db:seed
