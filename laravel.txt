@@ -23,3 +23,5 @@ sessions
 views
 cache
 
+How to run a specific seeder:
+php artisan db:seed --class=UsersTableSeeder
