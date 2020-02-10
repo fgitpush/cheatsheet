@@ -17,3 +17,10 @@ chmod 777 bootstrap
 chmod 777 vendor
 chmod 777 storage
 
+
+Create these folders in  storage/framework:
+
+sessions
+views
+cache
+
