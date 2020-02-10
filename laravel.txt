@@ -19,7 +19,6 @@ chmod 777 storage
 
 
 Create these folders in  storage/framework:
-
 sessions
 views
 cache
