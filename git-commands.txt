@@ -30,7 +30,7 @@ discard changes you have done to a file
 git reset 
 move all the files back to where they were at the last commit
 
-git remote add origin https://ifahaduddin@bitbucket.org/ifahaduddin/git-test.git
+git remote add origin url
 
 git push -u origin master
 
